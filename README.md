@@ -7,7 +7,7 @@ with a minimum of three prior lines (Moreau, et al. N Engl J Med. 2022).
 
 This Python code is used to analyze the effect of drug in MM patients on a real-world data.
 
-Specifically, it can provide methods for data preprocessing of continuous and categorical variables, that is, 
+Specifically, this GitHub library provides the methods for data preprocessing of continuous and categorical variables, that is, 
 continuous variable data extraction and its grouping and constructing contingency table, respectively.
 On the preprocessed data Kruskal–Wallis test and Fisher's exact tests are applied.
 
